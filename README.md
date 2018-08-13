@@ -11,7 +11,7 @@ Vue pagination component for use with Bootstrap and Laravel pagination.
 </p>
 
 * [Vue.js](http://vuejs.org/) (tested with 2.2.1).
-* [Bootstrap CSS](http://getbootstrap.com/) (tested with 3.3.7)
+* [Bootstrap CSS](http://getbootstrap.com/) (tested with 3.3.7) (bootstrap 4)
 
 To use with Vue.js 1 use the 1x version.
 
